@@ -1,0 +1,6 @@
+jQuery(
+$(
+.getElementById(
+.getElementByTagName(
+.querySelector(
+.querySelectorAll(

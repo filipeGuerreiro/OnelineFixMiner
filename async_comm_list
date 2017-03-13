@@ -1,0 +1,7 @@
+$.ajax(
+$.get(
+$.post(
+.open(
+.send(
+.setRequestHeader(
+.onreadystatechange
