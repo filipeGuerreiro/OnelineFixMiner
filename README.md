@@ -8,8 +8,9 @@ You need [GitPython](https://github.com/gitpython-developers/GitPython).
 
 ```
 $ sudo pip install gitpython
+$ sudo pip install ply==3.4
 ```
 ## Usage
 ```
-$ ./mine.py <repository remote url (default:fetch all repositories from wordpress plugins)> <branch name (default:master)>
+$ ./mine.py <repository git|http repository url (default:fetch all repositories from wordpress plugins)> <branch name (default:master)>
 ```
